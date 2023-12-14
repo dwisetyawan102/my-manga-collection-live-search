@@ -1,1 +1,1 @@
-# my-manga-collection-live-search
+# my-manga-collection
