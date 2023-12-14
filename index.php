@@ -20,6 +20,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>My Manga Collection</title>
+  <script src="js/jquery-3.7.1.min.js"></script>
+  <script src="js/script.js"></script>
 </head>
 <body>
   
@@ -62,6 +64,5 @@
     </table>
   </div>
 
-<script src="js/script.js"></script>
 </body>
 </html>
